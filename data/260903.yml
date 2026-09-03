@@ -1,11 +1,13 @@
 about:
-  description: A gitmoji interactive cli tool for using emojis on commits. 💻
+  description:
+  |
+    A gitmoji interactive cli tool for using emojis on commits. 💻
   license: MIT
   homepage: https://www.npmjs.com/package/gitmoji-cli
   head: 066995e
   archived: false
   latestVersion: v9.7.0
-  collectedAt: 2026-09-03T05:13:35Z
+  collectedAt: 2026-09-03T22:37:22Z
 timeline:
   created: 2016-11-17
   lastCommit: 2026-08-28
@@ -16,18 +18,18 @@ popularity:
   fork: 211
   release: 117
   contributor: 51
-  pullRequest: 297
+  pullRequest: 298
   issue: 231
 language:
   JavaScript: 84662
   TypeScript: 6838
-totalLine: 91500
+totalBytes: 91500
 recent:
   last30d:
     since: 2026-08-04
     release: 0
     mergedPR: 0
-    openPR: 4
+    openPR: 5
     closedIssue: 0
     openIssue: 1
     commit: 3
