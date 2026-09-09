@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 74610433,
       "digest": null,
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2025-05-16T06:37:27Z",
       "updated_at": "2025-05-16T06:37:30Z",
       "browser_download_url": "https://github.com/carloscuesta/gitmoji-cli/releases/download/v9.7.0/gitmoji-linux"
