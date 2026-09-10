@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.7.0"
   latestRelease: "v9.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:39:18Z
+  collectedAt: 2026-09-10T23:46:54Z
 timeline:
   created: 2016-11-17
   lastCommit: 2026-08-28
@@ -84,7 +84,7 @@ total:
   commit: 1267
 ---
 path: /home/runner/.x-repo/github.com/carloscuesta/gitmoji-cli
-collectedAt: 2026-09-10T17:39:27Z
+collectedAt: 2026-09-10T23:46:56Z
 loc:
   JavaScript:
     code: 2612
