@@ -4,7 +4,7 @@
 
 A gitmoji interactive cli tool for using emojis on commits. 💻
 
-![gitmoji-cli](https://repo.x-cmd.io/gitmoji-cli.svg)
+[![x-cmd/install — gitmoji-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitmoji-cli.svg)](https://x-cmd.com/install/gitmoji-cli)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 3 | 0 | 1 | 6 |
-| last60d | 2026-07-20 | 0 | 6 | 3 | 0 | 1 | 9 |
-| 90d | 2026-06-20 | 0 | 11 | 4 | 0 | 1 | 13 |
-| last180d | 2026-03-22 | 0 | 26 | 5 | 0 | 2 | 26 |
-| 360d | 2025-09-23 | 0 | 64 | 8 | 0 | 3 | 64 |
-| last720d | 2024-09-28 | 3 | 157 | 8 | 2 | 8 | 165 |
+| 30d | 2026-08-21 | 0 | 3 | 3 | 0 | 1 | 6 |
+| last60d | 2026-07-22 | 0 | 6 | 3 | 0 | 1 | 9 |
+| 90d | 2026-06-22 | 0 | 10 | 4 | 0 | 1 | 13 |
+| last180d | 2026-03-24 | 0 | 26 | 5 | 0 | 2 | 26 |
+| 360d | 2025-09-25 | 0 | 64 | 8 | 0 | 3 | 64 |
+| last720d | 2024-09-30 | 3 | 157 | 8 | 2 | 8 | 165 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gitmoji-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:38:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:50:05Z._
