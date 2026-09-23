@@ -4,7 +4,7 @@
 
 A gitmoji interactive cli tool for using emojis on commits. 💻
 
-[![x-cmd/install — gitmoji-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitmoji-cli.svg)](https://x-cmd.com/install/gitmoji-cli)
+[![x-cmd/install — gitmoji-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gitmoji-cli.svg)](https://x-cmd.com/install/gitmoji-cli)
 
 ## Install
 
@@ -25,7 +25,7 @@ Total: **3,053** lines of code across **61** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v9.7.0` (2025-05-16)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-22
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 4,829 · **Forks**: 212 · **Open issues**: 231 · **Contributors**: 51
+- **Stars**: 4,830 · **Forks**: 212 · **Open issues**: 231 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 1041 · **Open PRs**: 8 · **Closed issues**: 216 · **Open issues**: 15 · **Commits**: 1270
+- **Releases**: 117 · **Merged PRs**: 1042 · **Open PRs**: 7 · **Closed issues**: 216 · **Open issues**: 15 · **Commits**: 1271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 3 | 0 | 1 | 5 |
-| last60d | 2026-07-24 | 0 | 6 | 3 | 0 | 1 | 7 |
-| 90d | 2026-06-24 | 0 | 10 | 4 | 0 | 1 | 10 |
-| last180d | 2026-03-26 | 0 | 26 | 5 | 0 | 2 | 26 |
-| 360d | 2025-09-27 | 0 | 63 | 8 | 0 | 3 | 64 |
-| last720d | 2024-10-02 | 3 | 151 | 8 | 2 | 8 | 165 |
+| 30d | 2026-08-24 | 0 | 4 | 2 | 0 | 0 | 6 |
+| last60d | 2026-07-25 | 0 | 7 | 2 | 0 | 1 | 8 |
+| 90d | 2026-06-25 | 0 | 11 | 3 | 0 | 1 | 11 |
+| last180d | 2026-03-27 | 0 | 27 | 4 | 0 | 2 | 27 |
+| 360d | 2025-09-28 | 0 | 64 | 7 | 0 | 3 | 65 |
+| last720d | 2024-10-03 | 3 | 152 | 7 | 2 | 8 | 166 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gitmoji-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:45:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:52:41Z._
