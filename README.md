@@ -25,13 +25,13 @@ Total: **3,053** lines of code across **61** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 1 | 10 | 0 | 0 | 2 |
-| last60d | 2026-08-14 | 0 | 5 | 10 | 0 | 1 | 8 |
-| 90d | 2026-07-15 | 0 | 8 | 10 | 0 | 1 | 11 |
-| last180d | 2026-04-16 | 0 | 20 | 10 | 0 | 2 | 27 |
-| 360d | 2025-10-18 | 0 | 56 | 11 | 0 | 3 | 56 |
-| last720d | 2024-10-23 | 2 | 150 | 11 | 2 | 7 | 156 |
+| 30d | 2026-09-14 | 0 | 1 | 10 | 0 | 0 | 2 |
+| last60d | 2026-08-15 | 0 | 5 | 10 | 0 | 1 | 8 |
+| 90d | 2026-07-16 | 0 | 8 | 10 | 0 | 1 | 11 |
+| last180d | 2026-04-17 | 0 | 20 | 10 | 0 | 2 | 27 |
+| 360d | 2025-10-19 | 0 | 56 | 11 | 0 | 3 | 56 |
+| last720d | 2024-10-24 | 2 | 150 | 11 | 2 | 7 | 156 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gitmoji-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:34:56Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:34:17Z._
