@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 5 | 5 | 0 | 0 | 5 |
-| last60d | 2026-08-23 | 0 | 9 | 5 | 0 | 1 | 12 |
-| 90d | 2026-07-24 | 0 | 12 | 5 | 0 | 1 | 13 |
-| last180d | 2026-04-25 | 0 | 24 | 5 | 0 | 2 | 29 |
-| 360d | 2025-10-27 | 0 | 60 | 6 | 0 | 3 | 60 |
-| last720d | 2024-11-01 | 2 | 146 | 6 | 2 | 7 | 160 |
+| 30d | 2026-09-23 | 0 | 5 | 5 | 0 | 0 | 5 |
+| last60d | 2026-08-24 | 0 | 9 | 5 | 0 | 0 | 12 |
+| 90d | 2026-07-25 | 0 | 12 | 5 | 0 | 1 | 13 |
+| last180d | 2026-04-26 | 0 | 24 | 5 | 0 | 2 | 29 |
+| 360d | 2025-10-28 | 0 | 59 | 6 | 0 | 3 | 60 |
+| last720d | 2024-11-02 | 2 | 146 | 6 | 2 | 7 | 160 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gitmoji-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:25:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:29:06Z._
