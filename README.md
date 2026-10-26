@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v9.7.0` (2025-05-16)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-25
 - **Assets in release**: 3
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 1047 · **Open PRs**: 6 · **Closed issues**: 216 · **Open issues**: 15 · **Commits**: 1276
+- **Releases**: 117 · **Merged PRs**: 1048 · **Open PRs**: 6 · **Closed issues**: 216 · **Open issues**: 15 · **Commits**: 1277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 5 | 5 | 0 | 0 | 5 |
-| last60d | 2026-08-26 | 0 | 9 | 5 | 0 | 0 | 12 |
-| 90d | 2026-07-27 | 0 | 12 | 5 | 0 | 1 | 13 |
-| last180d | 2026-04-28 | 0 | 24 | 5 | 0 | 2 | 29 |
-| 360d | 2025-10-30 | 0 | 59 | 6 | 0 | 3 | 60 |
-| last720d | 2024-11-04 | 2 | 146 | 6 | 2 | 7 | 160 |
+| 30d | 2026-09-26 | 0 | 6 | 5 | 0 | 0 | 6 |
+| last60d | 2026-08-27 | 0 | 10 | 5 | 0 | 0 | 10 |
+| 90d | 2026-07-28 | 0 | 13 | 5 | 0 | 1 | 13 |
+| last180d | 2026-04-29 | 0 | 25 | 5 | 0 | 2 | 25 |
+| 360d | 2025-10-31 | 0 | 60 | 6 | 0 | 3 | 60 |
+| last720d | 2024-11-05 | 2 | 147 | 6 | 2 | 7 | 161 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gitmoji-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:24:07Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:20:14Z._
