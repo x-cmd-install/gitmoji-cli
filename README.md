@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 1049 · **Open PRs**: 1 · **Closed issues**: 216 · **Open issues**: 15 · **Commits**: 1278
+- **Releases**: 117 · **Merged PRs**: 1049 · **Open PRs**: 5 · **Closed issues**: 216 · **Open issues**: 15 · **Commits**: 1278
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 2 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-01 | 0 | 9 | 0 | 0 | 0 | 11 |
-| 90d | 2026-08-02 | 0 | 11 | 0 | 0 | 1 | 14 |
-| last180d | 2026-05-04 | 0 | 22 | 0 | 0 | 2 | 26 |
-| 360d | 2025-11-05 | 0 | 54 | 1 | 0 | 3 | 61 |
-| last720d | 2024-11-10 | 2 | 147 | 1 | 2 | 7 | 162 |
+| 30d | 2026-10-02 | 0 | 2 | 4 | 0 | 0 | 6 |
+| last60d | 2026-09-02 | 0 | 9 | 4 | 0 | 0 | 11 |
+| 90d | 2026-08-03 | 0 | 11 | 4 | 0 | 1 | 14 |
+| last180d | 2026-05-05 | 0 | 22 | 4 | 0 | 2 | 26 |
+| 360d | 2025-11-06 | 0 | 54 | 5 | 0 | 2 | 61 |
+| last720d | 2024-11-11 | 2 | 147 | 5 | 2 | 7 | 161 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gitmoji-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:22:17Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:43:32Z._
