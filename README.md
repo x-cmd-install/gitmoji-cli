@@ -29,9 +29,9 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,829 · **Forks**: 213 · **Open issues**: 231 · **Contributors**: 51
+- **Stars**: 4,830 · **Forks**: 213 · **Open issues**: 231 · **Contributors**: 51
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-18 | 0 | 8 | 0 | 0 | 0 | 8 |
-| 90d | 2026-08-19 | 0 | 12 | 0 | 0 | 1 | 15 |
-| last180d | 2026-05-21 | 0 | 21 | 0 | 0 | 1 | 24 |
-| 360d | 2025-11-22 | 0 | 55 | 1 | 0 | 2 | 55 |
-| last720d | 2024-11-27 | 2 | 147 | 1 | 2 | 7 | 153 |
+| 30d | 2026-10-20 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-20 | 0 | 8 | 0 | 0 | 0 | 8 |
+| 90d | 2026-08-21 | 0 | 12 | 0 | 0 | 1 | 15 |
+| last180d | 2026-05-23 | 0 | 21 | 0 | 0 | 1 | 24 |
+| 360d | 2025-11-24 | 0 | 55 | 1 | 0 | 2 | 55 |
+| last720d | 2024-11-29 | 2 | 147 | 1 | 2 | 7 | 153 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gitmoji-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:27:18Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:48:50Z._

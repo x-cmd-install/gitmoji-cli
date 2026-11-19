@@ -29,9 +29,9 @@ x install gitmoji-cli
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install gitmoji-cli
 
 ## 流行度
 
-- **Star**: 4,829 · **Fork**: 213 · **开放 issue**: 231 · **贡献者**: 51
+- **Star**: 4,830 · **Fork**: 213 · **开放 issue**: 231 · **贡献者**: 51
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install gitmoji-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-18 | 0 | 8 | 0 | 0 | 0 | 8 |
-| 90d | 2026-08-19 | 0 | 12 | 0 | 0 | 1 | 15 |
-| last180d | 2026-05-21 | 0 | 21 | 0 | 0 | 1 | 24 |
-| 360d | 2025-11-22 | 0 | 55 | 1 | 0 | 2 | 55 |
-| last720d | 2024-11-27 | 2 | 147 | 1 | 2 | 7 | 153 |
+| 30d | 2026-10-20 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-20 | 0 | 8 | 0 | 0 | 0 | 8 |
+| 90d | 2026-08-21 | 0 | 12 | 0 | 0 | 1 | 15 |
+| last180d | 2026-05-23 | 0 | 21 | 0 | 0 | 1 | 24 |
+| 360d | 2025-11-24 | 0 | 55 | 1 | 0 | 2 | 55 |
+| last720d | 2024-11-29 | 2 | 147 | 1 | 2 | 7 | 153 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ gitmoji-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:27:21Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:48:51Z._
